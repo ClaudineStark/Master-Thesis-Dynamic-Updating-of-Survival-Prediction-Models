@@ -1,4 +1,4 @@
-Project: Dynamical updating
+Project: Dynamical updating of survival prediction models
 
 In this file an overvieuw is given of the different R scripts used in this project, with an explanation of each file.
 More detailed explanation is provided in the beginning of each file.
