@@ -52,4 +52,4 @@ More detailed explanation is provided in the beginning of each file.
 	Lastly, code to plot an illustration of the first updating period of 50 events is given, as well as visualization of individual predicted risk of refitting and recalibration (of one period).
 
 - expSurvivalModel.stan
-	In this file Stan code is provided for the Bayeisan updating method.
+	In this file Stan code is provided for the Bayesian updating method.
